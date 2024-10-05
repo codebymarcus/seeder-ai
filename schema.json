@@ -1,0 +1,19 @@
+{
+  "users": {
+    "count": 10,
+    "schema": {
+      "company": {
+        "type": "string",
+        "description": "Name of a Valid existing company."
+      },
+      "description": {
+        "type": "string",
+        "description": "A brief description of the generatedcompany"
+      },
+      "total_users": {
+        "type": "number",
+        "description": "Total number of users in the company"
+      }
+    }
+  }
+}
